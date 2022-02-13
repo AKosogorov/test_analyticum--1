@@ -15,6 +15,11 @@ npm run serve
 npm run build
 ```
 
+### Развернуть приложение на GitHub Pages
+```
+npm run deploy
+```
+
 ## Описание задания 
 
 ### Сделать страницу редактируемого dashboard.
